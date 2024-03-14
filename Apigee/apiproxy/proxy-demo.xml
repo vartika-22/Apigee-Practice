@@ -1,0 +1,16 @@
+<APIProxy revision="1" name="proxy-demo">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1707124311611</CreatedAt>
+    <LastModifiedAt>1707124363690</LastModifiedAt>
+    <BasePaths>/policydemo</BasePaths>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
